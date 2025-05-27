@@ -1,1 +1,3 @@
-# ...empty file...
+"""
+Genera embeddings y limpia textos.
+"""

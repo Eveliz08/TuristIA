@@ -1,1 +1,3 @@
-# ...empty file...
+"""
+Coordina el flujo de trabajo entre agentes.
+"""

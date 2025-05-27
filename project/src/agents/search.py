@@ -1,1 +1,3 @@
-# ...empty file...
+"""
+Recupera información relevante.
+"""
